@@ -1,2 +1,2 @@
 6053537/portainer-ce
-centos --platform=xxxxx
+centos --platform=arm32v7
