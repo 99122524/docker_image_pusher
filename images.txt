@@ -1,4 +1,3 @@
 6053537/portainer-ce
 python
-apache
-mysql
+ubuntu
