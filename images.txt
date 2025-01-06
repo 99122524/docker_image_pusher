@@ -1,3 +1,4 @@
 6053537/portainer-ce
 python
 ubuntu
+ubuntu:18.04
