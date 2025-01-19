@@ -1,5 +1,2 @@
-6053537/portainer-ce
 python:3.9.21
-centos:centos7
-ubuntu:24:10
 linux/arm/v7 liwangsheng/markdown-online-editor:latest
