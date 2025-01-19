@@ -1,1 +1,1 @@
---platform=linux/arm/v7 nriver/trilium-cn:0.63.7
+--platform=linux/arm/v7 requarks/wiki:canary-armv7-2.5.303
