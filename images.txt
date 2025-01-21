@@ -1,4 +1,1 @@
-photoprism/mkdocs-material:latest
-dko0/lsky-pro
-photoprism/photoprism
-photoprism/photoprism:preview-armv7
+--platform=linux/arm/v7 photoprism/photoprism
