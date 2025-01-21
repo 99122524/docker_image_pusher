@@ -1,1 +1,3 @@
+linuxserver/obsidian
+photoprism/photoprism:preview-armv7
 --platform=linux/arm/v7 photoprism/photoprism
