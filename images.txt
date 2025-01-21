@@ -1,1 +1,1 @@
-aapanel/aapanel:latest
+joplin/server
