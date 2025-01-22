@@ -1,1 +1,1 @@
-xkuma/socks5
+axboy/leanote:lite-arm
