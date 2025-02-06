@@ -1,1 +1,1 @@
-zdbit/virtual-dsm
+--platform=linux/arm/v7 tigerj/cups-airprint:latest
